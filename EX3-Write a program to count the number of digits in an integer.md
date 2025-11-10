@@ -45,5 +45,6 @@ public class CountDigitsRecursive {
 ```
 ## OUTPUT
 <img width="948" height="88" alt="image" src="https://github.com/user-attachments/assets/ad1bdb8c-1d0f-45a6-885f-fe60fd96e5d3" />
+
 ## RESULT
 Thus, the Java program to count the number of digits in an integer is implemented successfully.
