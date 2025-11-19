@@ -55,7 +55,7 @@ public class MinValueRecursive {
 }
 ```
 ## OUTPUT
-<img width="938" height="161" alt="image" src="https://github.com/user-attachments/assets/4f716123-0d4a-4266-925d-c2fcac272460" />
+<img width="576" height="303" alt="image" src="https://github.com/user-attachments/assets/3f8f606d-2c09-4be2-bb25-3137c564b823" />
 
 ## RESULT
 Thus, the Java program to find the minimum value (e.g., lowest heartbeat) using a recursive method has been implemented successfully.
