@@ -47,6 +47,6 @@ public class CountOccurrencesRecursive {
 }
 ```
 ## OUTPUT 
-<img width="946" height="187" alt="image" src="https://github.com/user-attachments/assets/e41c957e-3086-42ac-bb24-f59e0d5f2411" />
+<img width="679" height="380" alt="image" src="https://github.com/user-attachments/assets/f8c606ed-86b7-4c72-9b48-ae94ce15babb" />
 ## RESULT
 Thus, the Java program to count how many times a number appears in an array recursively is implemented successfully.
