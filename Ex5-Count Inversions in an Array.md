@@ -69,7 +69,6 @@ public class CountInversions {
 }
 ```
 ## OUTPUT 
-<img width="953" height="157" alt="image" src="https://github.com/user-attachments/assets/6fc7558e-20ad-48c4-b2cc-eb51c4ff35a4" />
-
+<img width="466" height="401" alt="image" src="https://github.com/user-attachments/assets/b2686bb6-2298-4e84-bfaf-02f66055ae6c" />
 ## RESULT
 Thus the Java program to count the number of inversions in an array where inversion is defined as: arr[i] > arr[j] and i < j is implemented successfully.
