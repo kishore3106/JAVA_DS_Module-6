@@ -75,7 +75,7 @@ public class MatrixNature {
 }
 ```
 ## OUTPUT
-<img width="953" height="396" alt="image" src="https://github.com/user-attachments/assets/751435fe-1570-4a8a-90fa-1660085022a0" />
+<img width="451" height="704" alt="image" src="https://github.com/user-attachments/assets/ea8c25ed-d97b-4b5b-a2e2-5275de76a9a6" />
 
 ## RESULT
 Thus, the Java program to evaluate whether Matrix A has all odd numbers and Matrix B has all even numbers of the same dimension and find the nature of the resultant matrix is implemented successfully.
